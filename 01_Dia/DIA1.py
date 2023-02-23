@@ -20,7 +20,7 @@ print(type("Ecuador"))
 
 #lvl 2
 
-from math import dist    #importas funciones al proyecto (creo xd)
+from math import dist    #importas funciones al proyecto 
 
 punto_1 = (2, 3) #(acá estás creando un dato y emparejando con su variable "punto")
 punto_2 = (10, 8)
